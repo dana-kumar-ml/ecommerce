@@ -1,0 +1,142 @@
+2025-08-03 18:07:32,386 [INFO] WDM: ====== WebDriver manager ======
+2025-08-03 18:07:36,985 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:07:37,951 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:07:38,236 [INFO] WDM: Driver [C:\Users\Danakumar.L\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 18:07:40,380 [INFO] test_purchase_flow: Navigating to SauceDemo login page
+2025-08-03 18:07:42,654 [INFO] test_purchase_flow: Logging in as standard_user
+2025-08-03 18:07:43,386 [INFO] test_purchase_flow: Verifying product page title
+2025-08-03 18:07:43,605 [INFO] test_purchase_flow: Adding backpack to cart
+2025-08-03 18:07:43,898 [INFO] test_purchase_flow: Navigating to cart
+2025-08-03 18:07:44,231 [INFO] test_purchase_flow: Verifying cart contains backpack
+2025-08-03 18:07:44,374 [INFO] test_purchase_flow: Proceeding to checkout
+2025-08-03 18:07:44,641 [INFO] test_purchase_flow: Entering checkout info
+2025-08-03 18:07:45,520 [INFO] test_purchase_flow: Verifying checkout overview
+2025-08-03 18:07:45,679 [INFO] test_purchase_flow: Finishing checkout
+2025-08-03 18:07:45,927 [INFO] test_purchase_flow: Verifying success page
+2025-08-03 18:07:46,091 [INFO] test_purchase_flow: Test completed successfully — creating GIF
+2025-08-03 18:10:22,302 [INFO] WDM: ====== WebDriver manager ======
+2025-08-03 18:10:26,941 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:10:27,190 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:10:27,475 [INFO] WDM: Driver [C:\Users\Danakumar.L\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 18:10:29,502 [INFO] test_purchase_flow: Navigating to SauceDemo login page
+2025-08-03 18:10:34,914 [INFO] test_purchase_flow: Logging in as standard_user
+2025-08-03 18:10:35,585 [INFO] test_purchase_flow: Verifying product page title
+2025-08-03 18:10:35,886 [INFO] test_purchase_flow: Adding backpack to cart
+2025-08-03 18:10:36,297 [INFO] test_purchase_flow: Navigating to cart
+2025-08-03 18:10:36,635 [INFO] test_purchase_flow: Verifying cart contains backpack
+2025-08-03 18:10:36,842 [INFO] test_purchase_flow: Proceeding to checkout
+2025-08-03 18:10:37,166 [INFO] test_purchase_flow: Entering checkout info
+2025-08-03 18:10:37,872 [INFO] test_purchase_flow: Verifying checkout overview
+2025-08-03 18:10:38,012 [INFO] test_purchase_flow: Finishing checkout
+2025-08-03 18:10:38,307 [INFO] test_purchase_flow: Verifying success page
+2025-08-03 18:10:38,511 [INFO] test_purchase_flow: Test completed successfully — creating GIF
+2025-08-03 18:16:44,819 [INFO] WDM: ====== WebDriver manager ======
+2025-08-03 18:16:49,548 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:16:49,912 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:16:50,307 [INFO] WDM: Driver [C:\Users\Danakumar.L\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 18:16:52,647 [INFO] test_purchase_flow: Navigating to SauceDemo login page
+2025-08-03 18:16:55,347 [INFO] test_purchase_flow: Logging in as standard_user
+2025-08-03 18:16:56,069 [INFO] test_purchase_flow: Verifying product page title
+2025-08-03 18:16:56,291 [INFO] test_purchase_flow: Adding backpack to cart
+2025-08-03 18:16:56,669 [INFO] test_purchase_flow: Navigating to cart
+2025-08-03 18:16:56,986 [INFO] test_purchase_flow: Verifying cart contains backpack
+2025-08-03 18:16:57,227 [INFO] test_purchase_flow: Proceeding to checkout
+2025-08-03 18:16:57,543 [INFO] test_purchase_flow: Entering checkout info
+2025-08-03 18:16:58,362 [INFO] test_purchase_flow: Verifying checkout overview
+2025-08-03 18:16:58,564 [INFO] test_purchase_flow: Finishing checkout
+2025-08-03 18:16:58,935 [INFO] test_purchase_flow: Verifying success page
+2025-08-03 18:16:59,213 [INFO] test_purchase_flow: Test completed successfully — creating GIF
+2025-08-03 18:20:29,101 [INFO] WDM: ====== WebDriver manager ======
+2025-08-03 18:20:34,185 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:20:34,464 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 18:20:34,910 [INFO] WDM: Driver [C:\Users\Danakumar.L\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 18:20:37,152 [INFO] test_purchase_flow: Navigating to SauceDemo login page
+2025-08-03 18:20:39,527 [INFO] test_purchase_flow: Logging in as standard_user
+2025-08-03 18:20:41,163 [INFO] test_purchase_flow: Verifying product page title
+2025-08-03 18:20:41,601 [INFO] test_purchase_flow: Adding backpack to cart
+2025-08-03 18:20:42,085 [INFO] test_purchase_flow: Navigating to cart
+2025-08-03 18:20:42,344 [INFO] test_purchase_flow: Verifying cart contains backpack
+2025-08-03 18:20:42,784 [INFO] test_purchase_flow: Proceeding to checkout
+2025-08-03 18:20:43,320 [INFO] test_purchase_flow: Entering checkout info
+2025-08-03 18:20:45,526 [INFO] test_purchase_flow: Verifying checkout overview
+2025-08-03 18:20:46,031 [INFO] test_purchase_flow: Finishing checkout
+2025-08-03 18:20:46,675 [INFO] test_purchase_flow: Verifying success page
+2025-08-03 18:20:47,148 [INFO] test_purchase_flow: Test completed successfully — creating GIF
+2025-08-03 21:34:42,901 [INFO] WDM: ====== WebDriver manager ======
+2025-08-03 21:34:47,086 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 21:34:47,967 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 21:34:48,172 [INFO] WDM: Driver [C:\Users\Danakumar.L\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 21:34:50,526 [INFO] test_purchase_flow: Navigating to SauceDemo login page
+2025-08-03 21:34:52,839 [INFO] test_purchase_flow: Logging in as standard_user
+2025-08-03 21:34:54,511 [INFO] test_purchase_flow: Verifying product page title
+2025-08-03 21:34:55,019 [INFO] test_purchase_flow: Adding backpack to cart
+2025-08-03 21:34:55,553 [INFO] test_purchase_flow: Navigating to cart
+2025-08-03 21:34:55,798 [INFO] test_purchase_flow: Verifying cart contains backpack
+2025-08-03 21:34:56,276 [INFO] test_purchase_flow: Proceeding to checkout
+2025-08-03 21:34:56,881 [INFO] test_purchase_flow: Entering checkout info
+2025-08-03 21:34:59,092 [INFO] test_purchase_flow: Verifying checkout overview
+2025-08-03 21:34:59,557 [INFO] test_purchase_flow: Finishing checkout
+2025-08-03 21:35:00,171 [INFO] test_purchase_flow: Verifying success page
+2025-08-03 21:35:00,604 [INFO] test_purchase_flow: Test completed successfully — creating GIF
+2025-08-03 21:39:13,511 [INFO] WDM: ====== WebDriver manager ======
+2025-08-03 21:39:18,184 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 21:39:18,466 [INFO] WDM: Get LATEST chromedriver version for google-chrome
+2025-08-03 21:39:18,750 [INFO] WDM: Driver [C:\Users\Danakumar.L\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-03 21:39:20,862 [INFO] test_purchase_flow: Navigating to SauceDemo login page
+2025-08-03 21:39:28,486 [INFO] test_purchase_flow: Logging in as standard_user
+2025-08-03 21:39:32,624 [INFO] test_purchase_flow: Verifying product page title
+2025-08-03 21:39:33,873 [INFO] test_purchase_flow: Adding backpack to cart
+2025-08-03 21:39:35,295 [INFO] test_purchase_flow: Navigating to cart
+2025-08-03 21:39:35,717 [INFO] test_purchase_flow: Verifying cart contains backpack
+2025-08-03 21:39:37,001 [INFO] test_purchase_flow: Proceeding to checkout
+2025-08-03 21:39:38,399 [INFO] test_purchase_flow: Entering checkout info
+2025-08-03 21:39:43,600 [INFO] test_purchase_flow: Verifying checkout overview
+2025-08-03 21:39:44,889 [INFO] test_purchase_flow: Finishing checkout
+2025-08-03 21:39:46,245 [INFO] test_purchase_flow: Verifying success page
+2025-08-03 21:39:47,526 [INFO] test_purchase_flow: Test completed successfully — creating GIF
+2025-08-04 11:01:15,721 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-04 11:04:52,018 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-04 11:07:29,462 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-04 11:07:31,869 [INFO] test_purchase_flow_playwright: Logging in as standard_user
+2025-08-04 11:07:31,976 [INFO] test_purchase_flow_playwright: Verifying product page title
+2025-08-04 11:15:22,060 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-04 11:15:24,469 [INFO] test_purchase_flow_playwright: Logging in as standard_user
+2025-08-04 11:15:24,624 [INFO] test_purchase_flow_playwright: Verifying product page title
+2025-08-04 11:15:24,745 [INFO] test_purchase_flow_playwright: Adding backpack to cart
+2025-08-04 11:15:24,862 [INFO] test_purchase_flow_playwright: Navigating to cart
+2025-08-04 11:18:32,827 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-04 11:18:34,854 [INFO] test_purchase_flow_playwright: Logging in as standard_user
+2025-08-04 11:18:35,312 [INFO] test_purchase_flow_playwright: Verifying product page title
+2025-08-04 11:18:35,499 [INFO] test_purchase_flow_playwright: Adding backpack to cart
+2025-08-04 11:18:35,669 [INFO] test_purchase_flow_playwright: Navigating to cart
+2025-08-04 11:18:35,827 [INFO] test_purchase_flow_playwright: Verifying cart contains backpack
+2025-08-04 11:18:35,974 [INFO] test_purchase_flow_playwright: Proceeding to checkout
+2025-08-04 11:18:36,203 [INFO] test_purchase_flow_playwright: Entering checkout info
+2025-08-04 11:18:36,564 [INFO] test_purchase_flow_playwright: Verifying checkout overview
+2025-08-04 11:18:36,709 [INFO] test_purchase_flow_playwright: Finishing checkout
+2025-08-04 11:18:36,913 [INFO] test_purchase_flow_playwright: Verifying success page
+2025-08-04 11:18:37,109 [INFO] test_purchase_flow_playwright: Test completed successfully — creating GIF
+2025-08-07 16:42:35,072 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-07 16:42:37,195 [INFO] test_purchase_flow_playwright: Logging in as standard_user
+2025-08-07 16:42:37,634 [INFO] test_purchase_flow_playwright: Verifying product page title
+2025-08-07 16:42:37,785 [INFO] test_purchase_flow_playwright: Adding backpack to cart
+2025-08-07 16:42:37,959 [INFO] test_purchase_flow_playwright: Navigating to cart
+2025-08-07 16:42:38,123 [INFO] test_purchase_flow_playwright: Verifying cart contains backpack
+2025-08-07 16:42:38,262 [INFO] test_purchase_flow_playwright: Proceeding to checkout
+2025-08-07 16:42:38,466 [INFO] test_purchase_flow_playwright: Entering checkout info
+2025-08-07 16:42:38,739 [INFO] test_purchase_flow_playwright: Verifying checkout overview
+2025-08-07 16:42:38,880 [INFO] test_purchase_flow_playwright: Finishing checkout
+2025-08-07 16:42:39,054 [INFO] test_purchase_flow_playwright: Verifying success page
+2025-08-07 16:42:39,194 [INFO] test_purchase_flow_playwright: Test completed successfully — creating GIF
+2025-08-07 16:43:07,921 [INFO] test_purchase_flow_playwright: Navigating to SauceDemo login page
+2025-08-07 16:43:11,114 [INFO] test_purchase_flow_playwright: Logging in as standard_user
+2025-08-07 16:43:11,427 [INFO] test_purchase_flow_playwright: Verifying product page title
+2025-08-07 16:43:11,531 [INFO] test_purchase_flow_playwright: Adding backpack to cart
+2025-08-07 16:43:11,685 [INFO] test_purchase_flow_playwright: Navigating to cart
+2025-08-07 16:43:11,864 [INFO] test_purchase_flow_playwright: Verifying cart contains backpack
+2025-08-07 16:43:12,027 [INFO] test_purchase_flow_playwright: Proceeding to checkout
+2025-08-07 16:43:12,229 [INFO] test_purchase_flow_playwright: Entering checkout info
+2025-08-07 16:43:12,494 [INFO] test_purchase_flow_playwright: Verifying checkout overview
+2025-08-07 16:43:12,634 [INFO] test_purchase_flow_playwright: Finishing checkout
+2025-08-07 16:43:12,831 [INFO] test_purchase_flow_playwright: Verifying success page
+2025-08-07 16:43:12,980 [INFO] test_purchase_flow_playwright: Test completed successfully — creating GIF
